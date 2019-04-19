@@ -1,0 +1,22 @@
+{
+  "name": "restAPI",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Ivan Gonzalez",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-promise-router": "^3.0.3",
+    "mongoose": "^5.5.2",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.10"
+  },
+  "scripts": {
+    "start-dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "description": "Learning how to use MongoDB",
+  "repository": "none",
+  "private": false
+}

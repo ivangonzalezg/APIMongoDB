@@ -1,0 +1,21 @@
+{
+  "firstName": "Juan",
+  "lastName": "Perez",
+  "position": "Defensa",
+  "age": 20,
+  "team": "Junior"
+}
+{
+  "firstName": "Pedro",
+  "lastName": "Lopez",
+  "position": "Medio campo",
+  "age": 22,
+  "team": "Union Magdalena"
+}
+{
+  "firstName": "Camilo",
+  "lastName": "Torres",
+  "position": "Delantero",
+  "age": 19,
+  "team": "Jaguares"
+}
